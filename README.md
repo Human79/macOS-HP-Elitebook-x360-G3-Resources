@@ -12,7 +12,7 @@
 - Battery Percentage
 - Display Brightness
 - USB ports
-- Audio with mute button (Both internal speakers and Microphone) (cx8400)
+- Audio (Both internal speakers and Microphone) (cx8400)
 - Native Power Management/(Also with cpufriend)
 - SMBus Controller
 - CPU Temperature Monitoring
