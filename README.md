@@ -1,4 +1,4 @@
- Resources for HP Elitebook x360 g3 g3 to run macOS 
+ Resources for HP Elitebook x360 G3 to run macOS 
 ===================================================
 
 ![Oops!There was supposed to be an image here](https://i.imgur.com/v69Qaw2.png)
@@ -8,7 +8,7 @@
 - iGPU acceleration (Intel UHD 620)
 - Sleep
 - I2C Touchscreen
-- Trackpad
+- Trackpad (with gestures)
 - Battery Percentage
 - Display Brightness
 - USB ports
