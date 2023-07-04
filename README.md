@@ -51,7 +51,7 @@
 - Geekbench 5 [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
 
 #### Important
-- In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please generate your own serial. (Reccommended SMBIOS : MacBookPro15,1) 
+- In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please generate your own serial. (Reccommended SMBIOS : MacBookPro15,2) 
 
 - This repo can be helpful for other HP Probook/Elitebook series notebooks
  
